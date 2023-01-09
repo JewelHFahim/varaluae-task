@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "logo": "./Assets2/Group.png",
+        "title": "Advice & Guidance",
+        "description": "All activities in the UAE are licensed. Whether manufacturing, finance, trading, marketing, consultancy or restaurants. In some countries only manufacturing is licensed. In others there is a threshold below which business are encouraged. Get ourinsightfull guidance today."
+    },
+    {
+        "id": "2",
+        "logo": "./Assets2/ILLUSTRATION 03  1.png",
+        "title": "Bank Account Setup",
+        "description": "There are many banks in the United Arab Emirates [UAE]. Both locally  owned and branches of multinational ones. Foreign banks adjust according to their parent s strategies and have changed local requirements overnight in the past. But we are here to help you."
+    },
+    {
+        "id": "3",
+        "logo": "./Assets2/Group-1.png",
+        "title": "Registration Document Perparation",
+        "description": "Several documents must be prepared to start the process of registering a new company in the United Arab Emirates.Be it a Dubai local company, a free zone one or an offshore entity. Your registered agent is dedicated to get this done for you for a seamless process."
+    },
+    {
+        "id": "4",
+        "logo": "./Assets2/Group-2.png",
+        "title": "UAE Company Visas",
+        "description": "Your application for visas is critical especially if you intend to move to Dubai. This becomes even more urgent if your family will also move with you. All the paperwork is done on your behalf smoothly so that you may only focus on doing what matters most to you."
+    }
+
+]

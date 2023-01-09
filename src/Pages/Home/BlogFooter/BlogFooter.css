@@ -1,0 +1,16 @@
+.blogfooter{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .blogfooter{
+        display: block;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
