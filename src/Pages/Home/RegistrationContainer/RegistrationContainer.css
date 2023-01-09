@@ -4,6 +4,7 @@
   margin-left: 20px;
   margin-right: 20px;
   margin: 50px 20px;
+  font-family: 'Noto+Sans';
 }
 
 .text-container {
@@ -19,8 +20,8 @@
 .heading {
   margin-top: 0;
   font-size: 45px;
-  font-weight: 800;
   line-height: 60px;
+  font-family: 'Lexend+Deca';
 }
 
 .get-started {
